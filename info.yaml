@@ -15,7 +15,7 @@ project:
 # This info will be automatically collected and used to make a datasheet for the chip.
 documentation: 
   author:       "James R"      # Your name
-  discord:      "jamesr"      # Your discord handle - make sure to include the # part as well
+  discord:      "jamesr#0350"      # Your discord handle - make sure to include the # part as well
   title:        "FFT Butterfly in Wokwi"      # Project title
   description:  "Single FFT butterfly with 2-bit resolution"      # Short description of what your project does
   how_it_works: "Calculates low-resolution FFT of two 2-bit inputs"      # Longer description of how the project works
